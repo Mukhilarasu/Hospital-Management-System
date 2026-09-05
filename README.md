@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040264
+# Name: Mukhilarasu K
+# Date: 01-09-2026
 
 
 # AIM:
@@ -100,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="731" height="865" alt="image" src="https://github.com/user-attachments/assets/bc8b7739-ec50-4736-b26f-8312d7b00222" />
 
 
 
@@ -109,6 +110,8 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+<img width="877" height="752" alt="image" src="https://github.com/user-attachments/assets/f1053ccd-c46d-4cc2-ae08-98f009e221b5" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
